@@ -13,7 +13,7 @@ description: >-
 ---
 
 <!-- GENERATED:START -- do not edit, overwritten by .github/scripts/recompile.mjs -->
-Compiled from this file's Variables section (content fingerprint 47f12baed840).
+Compiled from this file's Variables section (content fingerprint 0d07cc08e528).
 259 tokens, 6 collection(s), 2 mode(s): Inter, Mode 1.
 <!-- GENERATED:END -->
 
