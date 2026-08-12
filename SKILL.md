@@ -17,7 +17,7 @@ description: >-
      sections below; this line blocks the build on purpose until you do. -->
 
 <!-- GENERATED:START -- do not edit, overwritten by .github/scripts/recompile.mjs -->
-Compiled from this file's Variables section (content fingerprint 47f12baed840).
+Compiled from this file's Variables section (preview fingerprint 7444c951).
 259 tokens, 6 collection(s), 2 mode(s): Inter, Mode 1.
 <!-- GENERATED:END -->
 
@@ -469,7 +469,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 0
       },
-      "tokenSync.collection": "border radius"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "border radius",
+      "tokenSync.figmaKey": "ba4ecce6538ed8d484f57679727e3360a2f2d616"
     }
   },
   "Soft": {
@@ -482,7 +486,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 8
       },
-      "tokenSync.collection": "border radius"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "border radius",
+      "tokenSync.figmaKey": "4f8b6468c653fb9bfe7629f8ef8a7746004b0d4b"
     }
   },
   "Softer": {
@@ -495,7 +503,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 16
       },
-      "tokenSync.collection": "border radius"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "border radius",
+      "tokenSync.figmaKey": "6f15dece1efdac94210e80f350174f0d7834c0c0"
     }
   },
   "Round": {
@@ -508,7 +520,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 999
       },
-      "tokenSync.collection": "border radius"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "border radius",
+      "tokenSync.figmaKey": "a047b99c190ef516018d81f64bba021bd1c02e39"
     }
   },
   "Primitive": {
@@ -523,7 +539,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "rgba(80, 90, 172, 0)"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "cc5fc63c75cf79e22379d014cbac222554ece198"
         }
       },
       "5": {
@@ -536,7 +556,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "rgba(80, 90, 172, 0.05)"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "5acbfacd74bb254ddf623090539f33fc50fb6d86"
         }
       },
       "10": {
@@ -549,7 +573,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "rgba(80, 90, 172, 0.1)"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "e66cb674f92bf26bada87029348aa4efdca59458"
         }
       },
       "20": {
@@ -562,7 +590,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "rgba(80, 90, 172, 0.2)"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "cba18371bba9e22d6ec1def758e13bc28fa52279"
         }
       },
       "30": {
@@ -575,7 +607,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "rgba(80, 90, 172, 0.3)"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "fd601d40adf51b6d1b54529dea4ec3df906f69e0"
         }
       },
       "40": {
@@ -588,7 +624,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "rgba(80, 90, 172, 0.4)"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "2f160f6c88266d74102a3036119c5b4524a58d0f"
         }
       },
       "50": {
@@ -601,7 +641,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "rgba(80, 90, 172, 0.5)"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "81aa7530ce06314928d1ac9878f4bdbf5c2cfe85"
         }
       },
       "60": {
@@ -614,7 +658,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "rgba(80, 90, 172, 0.6)"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "c065f92a6f50dec1345d54991bc7a63cd67ab197"
         }
       },
       "70": {
@@ -627,7 +675,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "rgba(80, 90, 172, 0.7)"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "a719eb41ea77193aa0e5e911c41c1939343082fe"
         }
       },
       "80": {
@@ -640,7 +692,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "rgba(80, 90, 172, 0.8)"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "e75a83eb894e61c88688029715fac53a1773da95"
         }
       },
       "90": {
@@ -653,7 +709,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "rgba(80, 90, 172, 0.9)"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "a6a6786f211467f659b6056453a574a5b0a9b9e2"
         }
       },
       "100": {
@@ -666,7 +726,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#505AAC"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "caf0b869e14fa920922a941f160130e54296af0b"
         }
       }
     },
@@ -681,7 +745,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#FFFFFF"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "65e7895df37b4720564a5b4616f324f5073830cc"
         }
       },
       "black": {
@@ -694,7 +762,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#000000"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "5735fc0576776f81a0992ec24cc0124ec86c161d"
         }
       }
     },
@@ -709,7 +781,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#FCFCFD"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "e6d7060bbe6d03f277e6a2a444270c7481eb7929"
         }
       },
       "50": {
@@ -722,7 +798,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#F9FAFB"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "61ad4197bd0b11fc2383fa9e078afe1ca9c693d2"
         }
       },
       "100": {
@@ -735,7 +815,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#F3F4F6"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "675f286568c00ccf9d985caa282ae1ff2fcacec4"
         }
       },
       "150": {
@@ -748,7 +832,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#F2F3F5"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "dbbbcb9b3c6cf7887a246aa55485b7bb0b2e29ec"
         }
       },
       "200": {
@@ -761,7 +849,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#E5E7EB"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "3c85374ab9c55b168354d67c7ba0f153725da84a"
         }
       },
       "300": {
@@ -774,7 +866,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#D2D6DB"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "baec5e9ad550594d61171db87c77f94d3f1e0829"
         }
       },
       "400": {
@@ -787,7 +883,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#9DA4AE"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "c8db1f1c2a4f7f4e8d3dfbe6ed910e4e44771406"
         }
       },
       "500": {
@@ -800,7 +900,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#6C737F"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "a907001d13d93f24844514d85016861160bba50c"
         }
       },
       "600": {
@@ -813,7 +917,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#4D5761"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "5fcec084ce24e7f88eaaa76b61a55c8fb782e448"
         }
       },
       "700": {
@@ -826,7 +934,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#384250"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "76f66417773255f1233a96ea47a948dbd3972e43"
         }
       },
       "800": {
@@ -839,7 +951,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#1F2A37"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "0d0f1a3d7939640961f265a61a1cb78459bea90d"
         }
       },
       "900": {
@@ -852,7 +968,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#111927"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "16b8e55e0c4ea4da533d305d908df0c9da01c4da"
         }
       },
       "950": {
@@ -865,7 +985,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#0D121C"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "11fde572b2107aa01f48c140ee1188e702c671ed"
         }
       }
     },
@@ -880,7 +1004,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#EBF1FF"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "7960a3ff0a6c2230d21d4312d91de3b615c844bc"
         }
       },
       "light": {
@@ -893,7 +1021,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#C2D6FF"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "30cad4be820d1d22da881c5396b9566d452c19f8"
         }
       },
       "base": {
@@ -906,7 +1038,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#375DFB"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "9aa242a12b29d87b752c2039df2e304630ceef06"
         }
       },
       "dark": {
@@ -919,7 +1055,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#253EA7"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "34a4fa247413aae0808c5c9141e8468f64936671"
         }
       },
       "darker": {
@@ -932,7 +1072,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#162664"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "b2764cbdf7b353376da08f2b8b2a55814471b502"
         }
       }
     },
@@ -947,7 +1091,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#EFFAF6"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "fe19f6321f215e08c37fcb696f4020c5b48d7540"
         }
       },
       "light": {
@@ -960,7 +1108,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#CBF5E5"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "be7671b4e3e5b946be3e4114b5f8758698a4522f"
         }
       },
       "base": {
@@ -973,7 +1125,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#38C793"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "20ada8499e38278c759262939f17d90c1a943d12"
         }
       },
       "dark": {
@@ -986,7 +1142,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#2D9F75"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "2675f3aab40674dedb83162366fd6fa2e208a09d"
         }
       },
       "darker": {
@@ -999,7 +1159,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#176448"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "f62e0b4e350d1f64881cfb683bb8274f92daef92"
         }
       }
     },
@@ -1014,7 +1178,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#FEF3EB"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "5657ecf791f2122e8f85369e0e368fcd56db5a63"
         }
       },
       "light": {
@@ -1027,7 +1195,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#FFDAC2"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "cb5064b5f4e259785c38a56e711b12f5605ca5ff"
         }
       },
       "base": {
@@ -1040,7 +1212,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#F17B2C"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "8757bb567fb763245b8d7ff18f3362ca5c8d16e0"
         }
       },
       "dark": {
@@ -1053,7 +1229,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#C2540A"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "375091d531ba2374c034926469942980c5b43aad"
         }
       },
       "darker": {
@@ -1066,7 +1246,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#6E330C"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "f1a84345f5edca21863e9c867ca430290f95d50f"
         }
       }
     },
@@ -1081,7 +1265,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#FEF7EC"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "b69721858689ef58d9f6e45df774e2f7f1aeaa61"
         }
       },
       "light": {
@@ -1094,7 +1282,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#FBDFB1"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "cbb9d505b06bd1d04f877c9afcde7c729176b86b"
         }
       },
       "base": {
@@ -1107,7 +1299,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#F2AE40"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "31d968eea010deebc4f47fb9e92a422c36016db7"
         }
       },
       "dark": {
@@ -1120,7 +1316,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#B47818"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "c41eaa28f88e0ee947da1a55f03bc1934ec75f6a"
         }
       },
       "darker": {
@@ -1133,7 +1333,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#693D11"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "e40657d60815bd06f7c8a52e234b8f9edceba08f"
         }
       }
     },
@@ -1148,7 +1352,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#FDEDF0"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "2fa949f5fd155407f074d258fd5b157f0fd111ef"
         }
       },
       "light": {
@@ -1161,7 +1369,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#F8C9D2"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "5727c02e603ad61761b979417f818bc0e9fee7d3"
         }
       },
       "red-[Custom]": {
@@ -1174,7 +1386,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#DD4A4A"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "0604f5aab54e29c26411761c43410bb5e62744c0"
         }
       },
       "base": {
@@ -1187,7 +1403,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#DF1C41"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "0441c52f8358f06df12fcbd58cdf3e8cd48ef7dd"
         }
       },
       "dark": {
@@ -1200,7 +1420,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#AF1D38"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "7f5f9d296916bab684eb6bb8b328fb359313b755"
         }
       },
       "darker": {
@@ -1213,7 +1437,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#710E21"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "8e09c93011af9262b209d080145950697a210826"
         }
       }
     },
@@ -1228,7 +1456,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#EEEBFF"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "74c50192d0a6c27a1eda4d5870d8df30c1328b70"
         }
       },
       "light": {
@@ -1241,7 +1473,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#CAC2FF"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "dfbcecd52c22e18472fad2d634acd8596481aa1a"
         }
       },
       "base": {
@@ -1254,7 +1490,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#6E3FF3"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "fd2c3496e85b7baf9657995b59eb0dbd78a47b19"
         }
       },
       "dark": {
@@ -1267,7 +1507,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#5A36BF"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "2daacfabc311786b1b6f7488ffdd37779f766ae9"
         }
       },
       "darker": {
@@ -1280,7 +1524,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#2B1664"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "6c560baf18f00f2990bfcf5691fe556df5166dc3"
         }
       }
     },
@@ -1295,7 +1543,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#FDEBFF"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "5c30abec848df66da5a9a3ac7b880882574c4c17"
         }
       },
       "light": {
@@ -1308,7 +1560,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#F9C2FF"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "21d9014b59c27139f94415089fae3f3d6bc9dbf5"
         }
       },
       "base": {
@@ -1321,7 +1577,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#E255F2"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "baad60ca860dcab38fd3298ca04d03d6d1083e3f"
         }
       },
       "dark": {
@@ -1334,7 +1594,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#9C23A9"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "a6a137ee1dffe9a6d975c28799e26dbfd19f7892"
         }
       },
       "darker": {
@@ -1347,7 +1611,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#620F6C"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "665ffbf20457c31690afa5bcf9bfb5996ea447f4"
         }
       }
     },
@@ -1362,7 +1630,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#EBFAFF"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "246a6f4eefbdd4746bddc5c112f833626a08ed68"
         }
       },
       "light": {
@@ -1375,7 +1647,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#C2EFFF"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "8336a8ab8cff95246eeb7d09d04f0ac0344f4850"
         }
       },
       "base": {
@@ -1388,7 +1664,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#35B9E9"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "48f39b65b52f6cfe8985f752848bc16eca354692"
         }
       },
       "dark": {
@@ -1401,7 +1681,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#1F87AD"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "b6425e1ab19a4b59f327fa4676460f855235b032"
         }
       },
       "darker": {
@@ -1414,7 +1698,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#164564"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "51b2547a9c5ce5370cae74364bb230ec3e14f2a5"
         }
       }
     }
@@ -1431,7 +1719,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#111927"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "68b11cdda3ca8a9958213ee8489ccf6bce335d5a"
         }
       },
       "surface": {
@@ -1444,7 +1736,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#384250"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "18bfe766c76902bca35fd76dc6cf8ba43e820e9e"
         }
       },
       "soft": {
@@ -1457,7 +1753,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#E5E7EB"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "f21833ecd3b95c6c7dbe85ee2f3ae55d64290266"
         }
       },
       "weak": {
@@ -1470,7 +1770,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#F3F4F6"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "9c6155f04e709b25cee7a9d6d3b08a20f1f474b0"
         }
       },
       "weaker": {
@@ -1483,7 +1787,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#F9FAFB"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "00b727a17848392e93ff1680a5a2f93ed4c88d75"
         }
       },
       "weakest": {
@@ -1496,7 +1804,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#FCFCFD"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "4d0c63ab9ddc606e98ddf0a45c65ae693273df28"
         }
       },
       "white": {
@@ -1509,7 +1821,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#FFFFFF"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "2e176145eed89dcddcebdb392e2bd3f03f5e2e50"
         }
       }
     },
@@ -1524,7 +1840,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#111927"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "af35c898a3a4f701fbef0ea0ffca4e2ccdec5ea0"
         }
       },
       "sub": {
@@ -1537,7 +1857,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#6C737F"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "1aec42a1dd56191e312b00be0fe6b56aa7e6ccf8"
         }
       },
       "soft": {
@@ -1550,7 +1874,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#9DA4AE"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "86a5c816aeac6f64df169beb01a8cf0c03c20356"
         }
       },
       "disabled": {
@@ -1563,7 +1891,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#D2D6DB"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "4c9136cbbe6311111ac57e38e899cacf4fc0cc98"
         }
       },
       "white": {
@@ -1576,7 +1908,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#FFFFFF"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "2f694c48ddc2bddb2a5991a93b651e3ed3416fa9"
         }
       }
     },
@@ -1591,7 +1927,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#111927"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "bf224eabd688fe4f7440f1b82e075b4e55c80395"
         }
       },
       "sub": {
@@ -1604,7 +1944,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#D2D6DB"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "7e92d0e90dbbd68b6eb4b76becf1260b8de05fe2"
         }
       },
       "soft": {
@@ -1617,7 +1961,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#E5E7EB"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "cc6080270858e59895a6f8d95d3e60df38a28636"
         }
       },
       "disabled": {
@@ -1630,7 +1978,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#F3F4F6"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "15dd61a22e9896deba916413c976bf9aee5ba522"
         }
       },
       "white": {
@@ -1643,7 +1995,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#FFFFFF"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "0a1e448f0fb19a583b9b56a36dc8f45b1142c609"
         }
       }
     },
@@ -1658,7 +2014,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#111927"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "6e27a15f2aed8fabd26794b353cd7c9bcc06f966"
         }
       },
       "sub": {
@@ -1671,7 +2031,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#6C737F"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "930bbdfc4cb306d0537a9233b7c75a72bf9434b9"
         }
       },
       "soft": {
@@ -1684,7 +2048,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#9DA4AE"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "a66909a6ce3f82749ec99f2463bc9de24a3525c9"
         }
       },
       "disabled": {
@@ -1697,7 +2065,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#D2D6DB"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "45568b7f3e3614941067754623bf6b5bbb27e014"
         }
       },
       "white": {
@@ -1710,7 +2082,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#FFFFFF"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "56b11ac9fb46735bea059f972a158cb65b004632"
         }
       }
     },
@@ -1725,7 +2101,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#38C793"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "10587e5ae63f945b10bdc211cd360a334cddbf6c"
         }
       },
       "warning": {
@@ -1738,7 +2118,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#F17B2C"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "d6241145236f85e5bcc5063981a0f789ec5414c9"
         }
       },
       "error": {
@@ -1751,7 +2135,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#DF1C41"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "df5119eb1bee0830e1d18f28b5661ea03c558572"
         }
       },
       "information": {
@@ -1764,7 +2152,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#375DFB"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "58eef305d94bd4ca411fc9d53ef87448a2826e2f"
         }
       },
       "away": {
@@ -1777,7 +2169,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#F2AE40"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "2dc61d949554ade37ee21a3500ffd84e623b75ee"
         }
       },
       "feature": {
@@ -1790,7 +2186,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#6E3FF3"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "9d1fd9f71161a869302a0472e6143db33abc319d"
         }
       },
       "neutral": {
@@ -1803,7 +2203,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#9DA4AE"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "28bbf2e38004d5858a4f4b2010e0cbfd7ce0f081"
         }
       },
       "verified": {
@@ -1816,7 +2220,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Mode 1": "#35B9E9"
           },
-          "tokenSync.collection": "Colors"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Colors",
+          "tokenSync.figmaKey": "24cc3b6cefa99a3f41c37891937e7eed51be8171"
         }
       }
     }
@@ -1831,7 +2239,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 4
       },
-      "tokenSync.collection": "sizes"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "sizes",
+      "tokenSync.figmaKey": "a6ed08c84fbba550866c28287edcfbb2f0352818"
     }
   },
   "size-6": {
@@ -1844,7 +2256,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 6
       },
-      "tokenSync.collection": "sizes"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "sizes",
+      "tokenSync.figmaKey": "f86a82e070f789bf045da44ede40530f993e8386"
     }
   },
   "size-8": {
@@ -1857,7 +2273,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 8
       },
-      "tokenSync.collection": "sizes"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "sizes",
+      "tokenSync.figmaKey": "a3537654a8dae552f87c04a699205e1c4a4f33e2"
     }
   },
   "size-10": {
@@ -1870,7 +2290,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 10
       },
-      "tokenSync.collection": "sizes"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "sizes",
+      "tokenSync.figmaKey": "e2db87f19417bff105a8a8dd441ef1b2ec1217e3"
     }
   },
   "size-12": {
@@ -1883,7 +2307,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 12
       },
-      "tokenSync.collection": "sizes"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "sizes",
+      "tokenSync.figmaKey": "d0c83c36af039074d523b614f0bafce43742590f"
     }
   },
   "size-14": {
@@ -1896,7 +2324,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 14
       },
-      "tokenSync.collection": "sizes"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "sizes",
+      "tokenSync.figmaKey": "0df92dec07a3ae007c30d89a9f35ff5850098c9d"
     }
   },
   "size-16": {
@@ -1909,7 +2341,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 16
       },
-      "tokenSync.collection": "sizes"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "sizes",
+      "tokenSync.figmaKey": "cb2ce8f24b8788f922880ee4b3c60668ab542218"
     }
   },
   "size-18": {
@@ -1922,7 +2358,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 18
       },
-      "tokenSync.collection": "sizes"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "sizes",
+      "tokenSync.figmaKey": "80a62bd2314c037d72e50e968dc265176e7b886a"
     }
   },
   "size-20": {
@@ -1935,7 +2375,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 20
       },
-      "tokenSync.collection": "sizes"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "sizes",
+      "tokenSync.figmaKey": "9c704a34b470ebafca2da56ac03040e3bc5d76fe"
     }
   },
   "size-22": {
@@ -1948,7 +2392,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 22
       },
-      "tokenSync.collection": "sizes"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "sizes",
+      "tokenSync.figmaKey": "f7edbe9bde217e1d3c7b7c73e08cbb6e371e5cae"
     }
   },
   "size-24": {
@@ -1961,7 +2409,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 24
       },
-      "tokenSync.collection": "sizes"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "sizes",
+      "tokenSync.figmaKey": "079341cae12bafcbb5621f91197b055bbd3b6461"
     }
   },
   "size-28": {
@@ -1974,7 +2426,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 28
       },
-      "tokenSync.collection": "sizes"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "sizes",
+      "tokenSync.figmaKey": "c216f1381ec916ab429a97449728a86ca3b7ff81"
     }
   },
   "size-30": {
@@ -1987,7 +2443,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 30
       },
-      "tokenSync.collection": "sizes"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "sizes",
+      "tokenSync.figmaKey": "2dacdffef09526dc1186fc357fe132b1db1c3e88"
     }
   },
   "size-32": {
@@ -2000,7 +2460,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 32
       },
-      "tokenSync.collection": "sizes"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "sizes",
+      "tokenSync.figmaKey": "9f22ad820cc950c4dbfae6c1c996a67f952745d3"
     }
   },
   "size-38": {
@@ -2013,7 +2477,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 38
       },
-      "tokenSync.collection": "sizes"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "sizes",
+      "tokenSync.figmaKey": "fb465de122c2d7bfb05c350fa7fc7c943052cf21"
     }
   },
   "size-40": {
@@ -2026,7 +2494,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 40
       },
-      "tokenSync.collection": "sizes"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "sizes",
+      "tokenSync.figmaKey": "a1afeae55a403e1af83e70df8ef5fc4c1b34c0b9"
     }
   },
   "size-46": {
@@ -2039,7 +2511,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 46
       },
-      "tokenSync.collection": "sizes"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "sizes",
+      "tokenSync.figmaKey": "16b5eaada836efce8c501a7b35a50fb288dd21b0"
     }
   },
   "size-56": {
@@ -2052,7 +2528,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 56
       },
-      "tokenSync.collection": "sizes"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "sizes",
+      "tokenSync.figmaKey": "5d9bb6a0b8ca9ff777037fdeb9ac6bbc4d0f1c24"
     }
   },
   "size-60": {
@@ -2065,7 +2545,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 60
       },
-      "tokenSync.collection": "sizes"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "sizes",
+      "tokenSync.figmaKey": "039018bfcccceb8af446bfdb1c516eeaff0516b6"
     }
   },
   "size-64": {
@@ -2078,7 +2562,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 64
       },
-      "tokenSync.collection": "sizes"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "sizes",
+      "tokenSync.figmaKey": "82d5c21e23184b534d9e494cccb6b7d5ac34375f"
     }
   },
   "space-4": {
@@ -2091,7 +2579,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 4
       },
-      "tokenSync.collection": "Space"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Space",
+      "tokenSync.figmaKey": "825dbf1ea21cdaaf095414de80cb40b491f40cdf"
     }
   },
   "space-8": {
@@ -2104,7 +2596,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 8
       },
-      "tokenSync.collection": "Space"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Space",
+      "tokenSync.figmaKey": "b1b0909987ca6226e51a196b5fb204e0df9d066a"
     }
   },
   "space-12": {
@@ -2117,7 +2613,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 12
       },
-      "tokenSync.collection": "Space"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Space",
+      "tokenSync.figmaKey": "e5c86d7a465df2256a7b559cf061b301099fd93b"
     }
   },
   "space-14": {
@@ -2130,7 +2630,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 14
       },
-      "tokenSync.collection": "Space"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Space",
+      "tokenSync.figmaKey": "bc51cd2981b406c405173d7a664248440ef7cc83"
     }
   },
   "space-16": {
@@ -2143,7 +2647,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 16
       },
-      "tokenSync.collection": "Space"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Space",
+      "tokenSync.figmaKey": "203bfef129962eb665820ab32203a331a61ee1d5"
     }
   },
   "space-20": {
@@ -2156,7 +2664,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 20
       },
-      "tokenSync.collection": "Space"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Space",
+      "tokenSync.figmaKey": "ba107607c72a74c4baa1c4b1cb8dbecf66697248"
     }
   },
   "space-24": {
@@ -2169,7 +2681,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 24
       },
-      "tokenSync.collection": "Space"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Space",
+      "tokenSync.figmaKey": "40e4e38d6a49d03890503295426b9a9ba72a05bc"
     }
   },
   "space-32": {
@@ -2182,7 +2698,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 32
       },
-      "tokenSync.collection": "Space"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Space",
+      "tokenSync.figmaKey": "f879ef7f27e8abc22712a1791a3d74dca0ec5cbf"
     }
   },
   "space-40": {
@@ -2195,7 +2715,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 40
       },
-      "tokenSync.collection": "Space"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Space",
+      "tokenSync.figmaKey": "168d95ba116a70a9ba4970ba608eccc49fa73f10"
     }
   },
   "space-46": {
@@ -2208,7 +2732,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 46
       },
-      "tokenSync.collection": "Space"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Space",
+      "tokenSync.figmaKey": "da15e92a10a57189352fd86bf7990af1dba75a26"
     }
   },
   "space-64": {
@@ -2221,7 +2749,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 64
       },
-      "tokenSync.collection": "Space"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Space",
+      "tokenSync.figmaKey": "fe575526fa996dbc965218e1582d32f003acb6a3"
     }
   },
   "Primitive typography": {
@@ -2236,7 +2768,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Inter": "Inter"
           },
-          "tokenSync.collection": "Typography"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Typography",
+          "tokenSync.figmaKey": "8af593fe8abd6fa2e0a7999d51d7440bfc97ba8e"
         }
       }
     },
@@ -2251,7 +2787,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Inter": 0
           },
-          "tokenSync.collection": "Typography"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Typography",
+          "tokenSync.figmaKey": "520a8c8f856e5f0877746191f2a765fe2cf40ace"
         }
       }
     },
@@ -2266,7 +2806,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Inter": "Auto"
           },
-          "tokenSync.collection": "Typography"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Typography",
+          "tokenSync.figmaKey": "4eff3746d079e8fe17b9d85a5f83656db88207dd"
         }
       },
       "Tightest": {
@@ -2279,7 +2823,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Inter": "110%"
           },
-          "tokenSync.collection": "Typography"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Typography",
+          "tokenSync.figmaKey": "76509a2d19ced0af24641d3e93cef0eee8dd7621"
         }
       },
       "Tight": {
@@ -2292,7 +2840,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Inter": "120%"
           },
-          "tokenSync.collection": "Typography"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Typography",
+          "tokenSync.figmaKey": "9cce901a399e8ba8e01fc9b9a07f255f037bbfd2"
         }
       },
       "Compact": {
@@ -2305,7 +2857,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Inter": "140%"
           },
-          "tokenSync.collection": "Typography"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Typography",
+          "tokenSync.figmaKey": "f3f5d524d9662610974471d05182f1846ff5953e"
         }
       },
       "Medium": {
@@ -2318,7 +2874,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Inter": "160%"
           },
-          "tokenSync.collection": "Typography"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Typography",
+          "tokenSync.figmaKey": "032f2c319063c7f0b6f50412b1d9145f2480aa17"
         }
       },
       "Loose": {
@@ -2331,7 +2891,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Inter": "180%"
           },
-          "tokenSync.collection": "Typography"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Typography",
+          "tokenSync.figmaKey": "04c3fe66bd26688c3154c8ff6469b47b767bfcfd"
         }
       },
       "Spacious": {
@@ -2344,7 +2908,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Inter": "200%"
           },
-          "tokenSync.collection": "Typography"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Typography",
+          "tokenSync.figmaKey": "33ceecae8fdae7210c39b1462bf8e07b07391f6b"
         }
       }
     },
@@ -2359,7 +2927,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Inter": "regular"
           },
-          "tokenSync.collection": "Typography"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Typography",
+          "tokenSync.figmaKey": "22cbe1a443e91c806f0ea08c94945faed2cbc16d"
         }
       },
       "Medium": {
@@ -2372,7 +2944,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Inter": "medium"
           },
-          "tokenSync.collection": "Typography"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Typography",
+          "tokenSync.figmaKey": "965bfe3e89a7edf9dc2f2f0a83c2ae31cc7721bf"
         }
       },
       "Semi bold": {
@@ -2385,7 +2961,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Inter": "semi bold"
           },
-          "tokenSync.collection": "Typography"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Typography",
+          "tokenSync.figmaKey": "f80e45153c622b53f145adaebc495eb01c1d1367"
         }
       },
       "Bold": {
@@ -2398,7 +2978,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Inter": "Bold"
           },
-          "tokenSync.collection": "Typography"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Typography",
+          "tokenSync.figmaKey": "439c21f4d09d377fb33c6be355281dab6d3b863b"
         }
       }
     },
@@ -2413,7 +2997,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Inter": 12
           },
-          "tokenSync.collection": "Typography"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Typography",
+          "tokenSync.figmaKey": "242c1d5e0e9dd8bc16769e2906df81fe780cd5ab"
         }
       },
       "--font-size-sm": {
@@ -2426,7 +3014,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Inter": "medium"
           },
-          "tokenSync.collection": "Typography"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Typography",
+          "tokenSync.figmaKey": "46ae7320df368e09c6539b0d9bd507997464828a"
         }
       },
       "Semi bold": {
@@ -2439,7 +3031,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Inter": "semi bold"
           },
-          "tokenSync.collection": "Typography"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Typography",
+          "tokenSync.figmaKey": "7ca59815fbe53bbfddd8e4e1587f62b7712262df"
         }
       },
       "--font-size-xs: 12px; --font-size-sm: 14px; --font-size-md: 16px; --font-size-lg: 20px; --font-size-xl: 24px; --font-size-2xl: 32px;": {
@@ -2452,7 +3048,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Inter": "Bold"
           },
-          "tokenSync.collection": "Typography"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Typography",
+          "tokenSync.figmaKey": "a1b6c248db8278a80a8cf178b02a56cceb5f3097"
         }
       }
     }
@@ -2469,7 +3069,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Inter": 0
           },
-          "tokenSync.collection": "Typography"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Typography",
+          "tokenSync.figmaKey": "11b59b0cba739c6087b92e61adbb985b6ea618e6"
         }
       }
     },
@@ -2484,7 +3088,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Inter": "Auto"
           },
-          "tokenSync.collection": "Typography"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Typography",
+          "tokenSync.figmaKey": "13b866a5c64fa0ad38be32d3de003f21b20324bf"
         }
       },
       "Tightest": {
@@ -2497,7 +3105,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Inter": "110%"
           },
-          "tokenSync.collection": "Typography"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Typography",
+          "tokenSync.figmaKey": "df3de40bfcd2377e4f20eaede5f492ebc8a25178"
         }
       },
       "Tight": {
@@ -2510,7 +3122,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Inter": "120%"
           },
-          "tokenSync.collection": "Typography"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Typography",
+          "tokenSync.figmaKey": "9131be007597113874bfcac17b9b577e53f751bb"
         }
       },
       "Compact": {
@@ -2523,7 +3139,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Inter": "140%"
           },
-          "tokenSync.collection": "Typography"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Typography",
+          "tokenSync.figmaKey": "524350321466bdaf025dcb10d1ba914f27671964"
         }
       },
       "Medium": {
@@ -2536,7 +3156,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Inter": "160%"
           },
-          "tokenSync.collection": "Typography"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Typography",
+          "tokenSync.figmaKey": "2a4f501de32114f651bda34028163c9a3a2e3222"
         }
       },
       "Loose": {
@@ -2549,7 +3173,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Inter": "180%"
           },
-          "tokenSync.collection": "Typography"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Typography",
+          "tokenSync.figmaKey": "3782564853179a6407bfbb714ba4caccf65d1ff1"
         }
       },
       "Spacious": {
@@ -2562,7 +3190,11 @@ block whenever this skill triggers.
           "tokenSync.resolved": {
             "Inter": "200%"
           },
-          "tokenSync.collection": "Typography"
+          "tokenSync.scopes": [
+            "ALL_SCOPES"
+          ],
+          "tokenSync.collection": "Typography",
+          "tokenSync.figmaKey": "94ccde5c0b6ea8cb1d38f04871c12b56c03fc84c"
         }
       }
     }
@@ -2577,7 +3209,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 0
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "b724bef43d1d21e857e83912bd8b0e082f99c5a6"
     }
   },
   "unit-1": {
@@ -2590,7 +3226,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 1
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "60f16dccfa34fed8c12dfe8a4ce2be52c6ca08a0"
     }
   },
   "unit-2": {
@@ -2603,7 +3243,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 2
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "447cfafe9e703dae1b02440ca24bb0cfa7be3f7b"
     }
   },
   "unit-3": {
@@ -2616,7 +3260,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 3
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "980400163c6086d3c38072a478d64beefe5dfd3f"
     }
   },
   "unit-4": {
@@ -2629,7 +3277,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 4
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "2b44099f218cd6fe183d9bdfb7a095d28c2065bf"
     }
   },
   "unit-5": {
@@ -2642,7 +3294,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 5
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "d15c89e03ddd0c9be3c9ed1bbf0853f355079aa5"
     }
   },
   "unit-6": {
@@ -2655,7 +3311,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 6
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "7c26efa2be310b12851327203157f3c342728937"
     }
   },
   "unit-7": {
@@ -2668,7 +3328,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 7
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "a763f93b1d5d8b6644ffea60485aae04ccdf0c42"
     }
   },
   "unit-8": {
@@ -2681,7 +3345,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 8
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "0dc57431accde4f0ac540326dfef3e4133c06ded"
     }
   },
   "unit-9": {
@@ -2694,7 +3362,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 9
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "0994b5c673453bebc7e7261c731b03807bc7ad84"
     }
   },
   "unit-10": {
@@ -2707,7 +3379,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 10
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "60ef8a5e5390001e578d1fb1261dc548278d326d"
     }
   },
   "unit-11": {
@@ -2720,7 +3396,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 11
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "78e846b090619cb9853268cfe866bdf2086983d3"
     }
   },
   "unit-12": {
@@ -2733,7 +3413,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 12
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "5c97d0b688db9ad39073d27f664bbd9ceb4b6041"
     }
   },
   "unit-13": {
@@ -2746,7 +3430,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 13
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "2d30280f279c36d6b099bd3d471b32339743229a"
     }
   },
   "unit-14": {
@@ -2759,7 +3447,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 14
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "f043f21d8a63f3d9ba78c2415bd8a00e965197a4"
     }
   },
   "unit-15": {
@@ -2772,7 +3464,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 15
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "1061293a5b6e63f24d5d899bfcc4ca8aede25b4b"
     }
   },
   "unit-16": {
@@ -2785,7 +3481,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 16
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "0b7b339679fc7dc11cdd3699bf978f27726d2f88"
     }
   },
   "unit-17": {
@@ -2798,7 +3498,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 17
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "2151c180d1c025f8f60ed8ca365f6cd157ca435d"
     }
   },
   "unit-18": {
@@ -2811,7 +3515,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 18
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "b12008a02c945a1da583775b42daa5a248aacf74"
     }
   },
   "unit-19": {
@@ -2824,7 +3532,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 19
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "0886f2dc83eb275457999ca6873f41a10e0c9338"
     }
   },
   "unit-20": {
@@ -2837,7 +3549,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 20
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "6473be971a1202661483667c9db3d0a3319c7f8b"
     }
   },
   "unit-21": {
@@ -2850,7 +3566,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 21
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "fc1365b2d658ea7eb60f9ee443741488acfd01b6"
     }
   },
   "unit-22": {
@@ -2863,7 +3583,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 22
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "2477448597d05de6daa9f44231df7b897e82f000"
     }
   },
   "unit-23": {
@@ -2876,7 +3600,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 23
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "3d42f2f32a09308884f4a57137c9401ed736c544"
     }
   },
   "unit-24": {
@@ -2889,7 +3617,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 24
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "2042e423869ff884c3f4798bae110accbdca5485"
     }
   },
   "unit-25": {
@@ -2902,7 +3634,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 25
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "854dc6f4b1ea512c0ab209e552f055364aaaa55e"
     }
   },
   "unit-26": {
@@ -2915,7 +3651,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 26
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "f340a2429c29ebe3d635bbdb12e4b9204e44a317"
     }
   },
   "unit-27": {
@@ -2928,7 +3668,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 27
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "ffac2e72b67a8deed76175ed8eba74f98244e10f"
     }
   },
   "unit-28": {
@@ -2941,7 +3685,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 28
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "41228cc043caeb7d3c993b486a1e79bd731a98b0"
     }
   },
   "unit-29": {
@@ -2954,7 +3702,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 29
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "065226d8577fa3f8d248436cab9bbb13fa1d0bd7"
     }
   },
   "unit-30": {
@@ -2967,7 +3719,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 30
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "22c759931c1c24dde1b3d2d8d02617036914107c"
     }
   },
   "unit-31": {
@@ -2980,7 +3736,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 31
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "e602c2f6a3b7833ef22608053e84cfcea034bbca"
     }
   },
   "unit-32": {
@@ -2993,7 +3753,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 32
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "ab8e20c47a2fbe08548e6d78d3bf23ef83464ba6"
     }
   },
   "unit-33": {
@@ -3006,7 +3770,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 33
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "24087892f1b634d75f6789c85a053d070b6f0423"
     }
   },
   "unit-34": {
@@ -3019,7 +3787,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 34
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "7b2a077e783682b371a89c64d89f81f2a4a01e53"
     }
   },
   "unit-35": {
@@ -3032,7 +3804,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 35
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "3e7c052ca821d524e5253ef8b3299b2eb81097c5"
     }
   },
   "unit-36": {
@@ -3045,7 +3821,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 36
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "d05f70b6910a0a9ffbdd5f0849d36a2ee25e543a"
     }
   },
   "unit-37": {
@@ -3058,7 +3838,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 37
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "7f8783318e2c6d60631f8709a6b63acb4f2e54f9"
     }
   },
   "unit-38": {
@@ -3071,7 +3855,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 38
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "d5a2cb39dbddc4bd19f3e8467e2cde3486cca1a1"
     }
   },
   "unit-39": {
@@ -3084,7 +3872,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 39
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "6bdeaa4343d4d76d1a9a8fbd438b4718a5f8b67b"
     }
   },
   "unit-40": {
@@ -3097,7 +3889,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 40
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "c5309e85d0d86b74ade63b8b7d5f14cf2b89e573"
     }
   },
   "unit-41": {
@@ -3110,7 +3906,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 41
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "d2627a16c9d54e5dd758741c1a2407041f9a7444"
     }
   },
   "unit-42": {
@@ -3123,7 +3923,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 42
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "9c72a21d97a92daa830d584bb3d516621696afb3"
     }
   },
   "unit-43": {
@@ -3136,7 +3940,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 43
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "42f9273fe69543596bfc5b9baa236bd2362523d7"
     }
   },
   "unit-44": {
@@ -3149,7 +3957,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 44
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "1e4cd800514b88e826277980ebfff4399e8abd66"
     }
   },
   "unit-45": {
@@ -3162,7 +3974,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 45
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "65654eb27f5ef3987329b3fcbbbe0435b7edf557"
     }
   },
   "unit-46": {
@@ -3175,7 +3991,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 46
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "a1b59723f111d0b9b7e10b9b3087c167d5573dd4"
     }
   },
   "unit-47": {
@@ -3188,7 +4008,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 47
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "baff08fb3f32738c77005ad04dffca341687dafe"
     }
   },
   "unit-48": {
@@ -3201,7 +4025,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 48
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "ea59557b124773083647e797280f903eab2d6649"
     }
   },
   "unit-49": {
@@ -3214,7 +4042,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 49
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "a5e9250a50d4427d784640bf637b5e8841bde364"
     }
   },
   "unit-50": {
@@ -3227,7 +4059,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 50
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "458d6c0e795d243d87ce3c07ce3639c83f10c613"
     }
   },
   "unit-51": {
@@ -3240,7 +4076,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 51
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "8e1e3ce828273ead25ce299e36e28d3281ce28aa"
     }
   },
   "unit-52": {
@@ -3253,7 +4093,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 52
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "39d9369ffdc21db748f5630ae0bc0c7cff5082a7"
     }
   },
   "unit-53": {
@@ -3266,7 +4110,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 53
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "e1ce74a0e13006cb7b7c2c27c5782b08c963b444"
     }
   },
   "unit-54": {
@@ -3279,7 +4127,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 54
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "ccb7d5b1bdc717bfac6d8af6544dbbe9e82fd2e5"
     }
   },
   "unit-55": {
@@ -3292,7 +4144,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 55
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "28f647b9afebcd783c6fb687a80d712d0890d101"
     }
   },
   "unit-56": {
@@ -3305,7 +4161,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 56
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "a9e41f450cdc174519118f0676abb4582052f31e"
     }
   },
   "unit-57": {
@@ -3318,7 +4178,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 57
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "a2173a2bb9f68110b69a81ee3d744081a9ea0ec5"
     }
   },
   "unit-58": {
@@ -3331,7 +4195,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 58
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "ec07ca0c256cf79d7dc17c4056a275f2cd6d8e2c"
     }
   },
   "unit-59": {
@@ -3344,7 +4212,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 59
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "f7c012ea8ae58735342ff51781792928c3208cff"
     }
   },
   "unit-60": {
@@ -3357,7 +4229,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 60
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "04cbf0852fef7c3696325591f11846079b7fede4"
     }
   },
   "unit-61": {
@@ -3370,7 +4246,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 61
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "626b4ec6c1b07cadeb5b998d488fb747afdb2d19"
     }
   },
   "unit-62": {
@@ -3383,7 +4263,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 62
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "2afffcc1eef008eee90b5e9d4d77b595edefc10b"
     }
   },
   "unit-63": {
@@ -3396,7 +4280,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 63
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "db60389403e8455dac49745bcfd450a9cdeb4da3"
     }
   },
   "unit-64": {
@@ -3409,7 +4297,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 64
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "53062816f1e48096bea22897b9def076d4df36f4"
     }
   },
   "unit-65": {
@@ -3422,7 +4314,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 65
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "47506b0dad46df1bf8ca758f3933ee64e3daa47e"
     }
   },
   "unit-66": {
@@ -3435,7 +4331,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 66
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "67248ebcd6e93555006f2cf9712848b89a6e67b5"
     }
   },
   "unit-67": {
@@ -3448,7 +4348,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 67
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "a00b4249cbdfb9d450f5505ddf8fc8b93789f8cd"
     }
   },
   "unit-68": {
@@ -3461,7 +4365,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 68
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "764dd87c3bcb8167f7cff5d1675f23f8025a2244"
     }
   },
   "unit-69": {
@@ -3474,7 +4382,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 69
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "86121a91d7e3f7582c12564f27e7e81467dc7985"
     }
   },
   "unit-70": {
@@ -3487,7 +4399,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 70
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "f14f2d5d1ff568e161cab118dba50010e3071b02"
     }
   },
   "unit-70 2": {
@@ -3500,7 +4416,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 71
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "d57aed5b731da743067cfc88bb98f1aa80386d52"
     }
   },
   "unit-71": {
@@ -3513,7 +4433,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 72
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "41d400914d73b9d6894fee2cd9e9c0bd15d92f1b"
     }
   },
   "unit-72": {
@@ -3526,7 +4450,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 73
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "8e74f30b6958cf64d2c654e79bc8f5b53fb923ea"
     }
   },
   "unit-73": {
@@ -3539,7 +4467,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 74
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "68c83f58524d9006f974632a09fd117b1029c062"
     }
   },
   "unit-74": {
@@ -3552,7 +4484,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 75
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "0b06a18cd8fbd303dceed5c4037deaa099e48fa7"
     }
   },
   "unit-75": {
@@ -3565,7 +4501,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 76
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "f5af045556c68f1621d66c932992fde8b3573c80"
     }
   },
   "unit-76": {
@@ -3578,7 +4518,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 77
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "7952f2e1cdb4ad567c817ae01a2d25edde1cad46"
     }
   },
   "unit-77": {
@@ -3591,7 +4535,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 78
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "0cae1b71ae42d17d389e2606344591a20400fa51"
     }
   },
   "unit-78": {
@@ -3604,7 +4552,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 79
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "4c20336b8cab0c6ea5cc9e2dcf154a6118a48e68"
     }
   },
   "unit-80": {
@@ -3617,7 +4569,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 80
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "8cc7999734d1e246615b6a2351ab1747cb36de89"
     }
   },
   "unit-81": {
@@ -3630,7 +4586,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 81
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "4105c3fa6e7d6aa80ba797ce727424f9a3c6bbc3"
     }
   },
   "unit-82": {
@@ -3643,7 +4603,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 82
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "b8542cfa6f1c34349e21a4c00a5f3bb0b74c5414"
     }
   },
   "unit-83": {
@@ -3656,7 +4620,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 83
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "2286739b445091d459d2b6fade839a50e6c80ca8"
     }
   },
   "unit-84": {
@@ -3669,7 +4637,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 84
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "f72698b776b4f3087fb1b4df9502379d05c83f7a"
     }
   },
   "unit-85": {
@@ -3682,7 +4654,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 85
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "186fc83b062a04a9cad1c5a74605fa9d2c2d4b43"
     }
   },
   "unit-86": {
@@ -3695,7 +4671,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 86
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "51997a52fbcc2071b6fe48dbe2eb8bd173251745"
     }
   },
   "unit-87": {
@@ -3708,7 +4688,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 87
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "63a8c66fbcef7f5e54a396916582d464a88efb9a"
     }
   },
   "unit-88": {
@@ -3721,7 +4705,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 88
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "f17d82d53d8f282b540b3e1815b4efbe7cbb8bf1"
     }
   },
   "unit-89": {
@@ -3734,7 +4722,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 89
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "fbb16c5d05d11a95b31158beb1e5f5fb5039c302"
     }
   },
   "unit-90": {
@@ -3747,7 +4739,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 90
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "be5ce8c46f2e3339c8c11970633e5dd84ebdc11b"
     }
   },
   "unit-91": {
@@ -3760,7 +4756,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 91
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "eb5ccb4772794c2fde4dca87084215c547179169"
     }
   },
   "unit-92": {
@@ -3773,7 +4773,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 92
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "89616e7617738c0b29dbb84a1446654e31e7495d"
     }
   },
   "unit-93": {
@@ -3786,7 +4790,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 93
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "e8ac813628ecc35e78d8f2d7e35a3b22f4113668"
     }
   },
   "unit-94": {
@@ -3799,7 +4807,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 94
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "180a2c313357d4c6419a0dcd999e58f7f4c53a66"
     }
   },
   "unit-95": {
@@ -3812,7 +4824,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 95
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "a6dda629da90d82eee019ac0ee4db02261d19dda"
     }
   },
   "unit-96": {
@@ -3825,7 +4841,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 96
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "9a575a57d0f2c40a73e8c9c64c968816d839e4ed"
     }
   },
   "unit-97": {
@@ -3838,7 +4858,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 97
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "9a969504d55e9cd974289f50cc4f633ecc05c531"
     }
   },
   "unit-98": {
@@ -3851,7 +4875,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 98
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "e6df3ae1e8650e0027507e354eac1133f8138291"
     }
   },
   "unit-99": {
@@ -3864,7 +4892,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 99
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "09ae1ece14e3ae43a6a3366bb53464622e607f08"
     }
   },
   "unit-100": {
@@ -3877,7 +4909,11 @@ block whenever this skill triggers.
       "tokenSync.resolved": {
         "Mode 1": 100
       },
-      "tokenSync.collection": "Units"
+      "tokenSync.scopes": [
+        "ALL_SCOPES"
+      ],
+      "tokenSync.collection": "Units",
+      "tokenSync.figmaKey": "6ecd6ddeb9ec974408b43aaf6fd45e64b1c7e5e2"
     }
   }
 }
