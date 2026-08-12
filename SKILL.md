@@ -2,19 +2,15 @@
 name: connect-ds
 description: >-
   The published design token set for Connect - DS, with the CSS custom property names
-  to emit. Use this skill whenever you are writing or reviewing UI code for a
-  Connect - DS surface and are about to choose a color, spacing value, radius, size,
-  font weight, or border — even when the request never mentions tokens, Figma, or the
-  design system. Also use it when reviewing a diff or PR for hardcoded values, when turning
-  a mockup or screenshot into code, and when someone asks what the token for something is
-  or whether a value is on-scale. Provides the current published values so you never invent
-  a hex or an off-scale number.
+  to emit. 259 tokens across 6 collections (Colors, sizes, Space, border radius,
+  Typography, Units), one mode only — no light/dark pair. Use this skill whenever you
+  are writing or reviewing UI code for a Connect - DS surface and are about to choose a
+  color, spacing value, radius, size, font weight, or border — even when the request
+  never mentions tokens, Figma, or the design system. Also use it when reviewing a diff
+  or PR for hardcoded values, when turning a mockup or screenshot into code, and when
+  someone asks what the token for something is or whether a value is on-scale. Provides
+  the current published values so you never invent a hex or an off-scale number.
 ---
-
-<!-- SEEDED: the description above is a first draft, not reviewed prose — tune it by hand
-     once you've seen what this library actually contains, then delete this comment.
-     TODO(seed): confirm the description above still fits after reading the generated
-     sections below; this line blocks the build on purpose until you do. -->
 
 <!-- GENERATED:START -- do not edit, overwritten by .github/scripts/recompile.mjs -->
 Compiled from this file's Variables section (content fingerprint 47f12baed840).
