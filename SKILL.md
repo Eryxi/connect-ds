@@ -81,17 +81,30 @@ derived one looks off; don't reconstruct it by hand from the path alone.
 
 ## Choosing the right token
 
-<!-- TODO(seed): this section is library-specific and this pipeline cannot derive it —
-     no amount of token data tells you *intent*. Fill in, at minimum:
-     - Which layer to reach for first, and when a primitive is legitimately correct
-       instead of a semantic token
-     - Pairing rules — which foreground tokens are valid on which background tokens
-     - Any token name that misleads — e.g. a ramp whose "strong" end is dark, not
-       saturated, or a name that suggests a use case the token wasn't designed for
-     - Scales that overlap numerically but differ in intent (space vs size, radius vs
-       border-width) — say which is which
-     Delete this comment once the sections above are real; see
-     docs/repo-per-file-design.md for why the build fails while it's still here. -->
+**Colors.** Reach for `Semantic.*` first. The semantic layer covers four surfaces —
+`background`, `text`, `stroke`, `icon` — each with a strength ramp, plus a `state` group
+(`success`, `warning`, `error`, `information`, `away`, `feature`, `neutral`, `verified`).
+Use `Primitive.*` only when no semantic token expresses the intent; brand color is the main
+case where you have no choice (see Known issues).
+
+One trap in the background ramp: it is **not** ordered light-to-dark the way the names suggest.
+`--background-strong` (#111927) and `--background-surface` (#384250) are dark; `weak`, `weaker`,
+and `weakest` are the near-whites. "Strong" means strong contrast against the page, not a strong
+tint. Pair the two dark backgrounds with `--text-white` and `--icon-white`.
+
+**Spacing vs sizing.** `--space-*` is for gaps, padding, and margins. `--size-*` is for dimensions
+— icon boxes, control heights, avatars. They overlap numerically but express different intent, and
+`--size-*` has finer granularity (6, 10, 18, 22, 28, 30, 38, 56, 60) where `--space-*` deliberately
+doesn't. Picking `--size-16` for padding isn't wrong-looking, but it muddies the intent that lets
+the scales be tuned independently later.
+
+**Radius.** Four values only: `--radius-sharp` (0), `--radius-soft` (8), `--radius-softer` (16),
+`--radius-round` (999, for pills and circles). Anything between these is off-scale.
+
+**Typography.** Usable today: `--font-family` (Inter), `--letter-spacing` (0),
+`--font-weight-regular|medium|semi-bold|bold`, and a line-height set
+(`--line-height-tightest` 110% through `--line-height-spacious` 200%, plus `--line-height-auto`).
+Font *size* is not reliably published — see Known issues for what to do instead.
 
 ## Known issues
 
